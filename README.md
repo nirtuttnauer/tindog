@@ -1,2 +1,1 @@
-# tindog
-Just fiddling with CSS 3 and Bootstrap 5
+TinDog Starting Files
